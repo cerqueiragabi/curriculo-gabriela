@@ -148,14 +148,14 @@ Principais atividades:
 ## Equinox Gold Brasil  
 **Planejadora / Controller de Manutenção Industrial**
 
-Responsável pela análise de dados operacionais e financeiros, criação de dashboards e indicadores para suporte à tomada de decisão estratégica. :contentReference[oaicite:2]{index=2}
+Responsável pela análise de dados operacionais e financeiros, criação de dashboards e indicadores para suporte à tomada de decisão estratégica.
 
 Principais atividades:
 
 - análise de grandes volumes de dados operacionais  
 - criação de dashboards em Power BI  
 - análises preditivas baseadas em dados históricos  
-- consolidação de dados de múltiplas áreas :contentReference[oaicite:3]{index=3}
+- consolidação de dados de múltiplas áreas
 
 ---
 
@@ -190,7 +190,7 @@ MBA em Qualidade, Gestão e Engenharia de Processos – PUCRS
 
 MBA em Finanças e Controladoria – Pitágoras  
 
-Graduação em Administração – UNEB :contentReference[oaicite:4]{index=4}
+Graduação em Administração – UNEB
 
 ---
 
@@ -201,7 +201,7 @@ Graduação em Administração – UNEB :contentReference[oaicite:4]{index=4}
 - Inteligência Artificial Aplicada – Hashtag  
 - Lean Six Sigma Yellow Belt  
 - Auditor Interno ISO 55001  
-- Auditor Interno em Gestão de Fornecedores :contentReference[oaicite:5]{index=5}
+- Auditor Interno em Gestão de Fornecedores
 
 ---
 
